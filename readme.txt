@@ -54,38 +54,4 @@ Source: http://www.genericons.com
 
 Image used in screenshot.png: A photo by Austin Schmid (https://unsplash.com/schmidy/), licensed under Creative Commons Zero(http://creativecommons.org/publicdomain/zero/1.0/)
 
-== Changelog ==
 
-= 1.5 =
-* Released: May 17, 2018
-
-https://codex.wordpress.org/Twenty_Sixteen_Theme_Changelog#Version_1.5
-
-= 1.4 =
-* Released: November 14, 2017
-
-https://codex.wordpress.org/Twenty_Sixteen_Theme_Changelog#Version_1.4
-
-= 1.3 =
-* Released: August 16, 2016
-
-https://codex.wordpress.org/Twenty_Sixteen_Theme_Changelog#Version_1.3
-
-= 1.2 =
-* Released: April 12, 2016
-
-https://codex.wordpress.org/Twenty_Sixteen_Theme_Changelog#Version_1.2
-
-= 1.1 =
-* Released: January 6, 2016
-
-https://codex.wordpress.org/Twenty_Sixteen_Theme_Changelog#Version_1.1
-
-= 1.0 =
-* Released: December 8, 2015
-
-Initial release
-
-== Notes ==
-
-Only the default and dark color schemes are accessibility ready.
