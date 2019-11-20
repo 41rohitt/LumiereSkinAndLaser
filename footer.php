@@ -84,21 +84,6 @@
                 </div>
                 
             </div>
-            <div class="copyrights">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-6">
-                            <p>&copy; 2019  Lumiere Skin and Laser. All rights reserved.</p>
-                        </div>
-                        <div class="col-xs-6">
-                            <div class="powered-by pull-right">
-                                <span>Powered  by</span>
-                                <a  href="http://www.pollysys.com/"><img src="<?php bloginfo('template_directory'); ?>/img/pollysys-logo.png" alt="logo"></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </footer>
         
         <div class="sticky-container">
